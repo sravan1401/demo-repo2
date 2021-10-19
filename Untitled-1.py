@@ -1,6 +1,6 @@
 hero_name = "Sravan"
 herione_name = "Neha"
-int (hero_age) = 27
+hero_age = "27"
 print( "This is the story of a couple named " + hero_name + " and " + herione_name + " who live in Canada at age " + hero_age + ".")
 
 hero_name = "Sam"
